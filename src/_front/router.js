@@ -25,7 +25,7 @@ import pluginsSettings from '../../plugins-settings.json';
 // eslint-disable-next-line no-undef
 window.wwg_designInfo = {"id":"baf3d663-9d29-4cf9-8478-39cc97f7706e","homePageId":"a9b5f27e-63b4-4545-b11e-481a3b577b97","authPluginId":null,"baseTag":null,"defaultTheme":"light","langs":[{"lang":"en","default":true}],"background":{},"workflows":[],"pages":[{"id":"a9b5f27e-63b4-4545-b11e-481a3b577b97","linkId":"a9b5f27e-63b4-4545-b11e-481a3b577b97","name":"Home","folder":null,"paths":{"en":"home","default":"home"},"langs":["en"],"cmsDataSetPath":null,"sections":[{"uid":"c99dc906-98a4-4777-b012-b0cb15e8d984","sectionTitle":"Section","linkId":"67fbf15c-8f3e-4ec2-9925-47bfccff120c"}],"pageUserGroups":[],"title":{"en":"","fr":"Vide | Commencer à partir de zéro"},"meta":{"desc":{},"keywords":{},"socialDesc":{},"socialTitle":{},"structuredData":{}},"metaImage":""}],"plugins":[{"id":"2bd1c688-31c5-443e-ae25-59aa5b6431fb","name":"REST API","namespace":"restApi"}]};
 // eslint-disable-next-line no-undef
-window.wwg_cacheVersion = 1;
+window.wwg_cacheVersion = 2;
 // eslint-disable-next-line no-undef
 window.wwg_pluginsSettings = pluginsSettings;
 // eslint-disable-next-line no-undef
